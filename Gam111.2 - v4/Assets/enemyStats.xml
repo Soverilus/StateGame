@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CharacterStatsCollections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CharacterStatsArray>
+    <CharacterStats name="Bat">
+      <maxHealth>6</maxHealth>
+      <power>3</power>
+      <energy>3</energy>
+    </CharacterStats>
+    <CharacterStats name="Rabbit">
+      <maxHealth>9</maxHealth>
+      <power>5</power>
+      <energy>1</energy>
+    </CharacterStats>
+    <CharacterStats name="Ghost">
+      <maxHealth>12</maxHealth>
+      <power>1</power>
+      <energy>5</energy>
+    </CharacterStats>
+  </CharacterStatsArray>
+</CharacterStatsCollections>

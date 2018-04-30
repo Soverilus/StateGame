@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CharacterStatsCollections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CharacterStatsArray>
+    <CharacterStats name="Knight">
+      <maxHealth>80</maxHealth>
+      <power>6</power>
+      <energy>4</energy>
+    </CharacterStats>
+  </CharacterStatsArray>
+</CharacterStatsCollections>
